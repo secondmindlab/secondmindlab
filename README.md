@@ -61,14 +61,6 @@ This is the engine behind **Nebula Dev Studio** and the inner sandbox of **syste
 
 ---
 
-## 📌 Repo Meta
-
-- **Tags:** `second mind`, `developer platform`, `system design`, `execution architecture`, `cognitive scaffolds`, `internal systems`  
-- **GitHub Description:** `A systems lab for backend thinkers – build developer platforms, mental OSes, and execution scaffolds.`  
-- **Pinned GitHub Title (right panel):** `Second Mind OS Lab · Cognitive Systems for Builders`
-
----
-
 ## 🚀 Clarity → Speed → Scale
 
 This lab powers internal delivery systems, helps engineers think at a higher level, and creates reusable scaffolds to scale backend clarity.
