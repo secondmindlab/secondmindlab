@@ -4,13 +4,14 @@
 
 ---
 
-## 📌 Overview
+## 🧬 Overview
 
-**Second Mind OS Lab** is a self-directed R&D lab focused on designing internal developer platforms and cognitive frameworks that compress mental overhead and accelerate backend product delivery.
+**Second Mind OS Lab** is a self-directed R&D lab focused on building internal developer platforms, execution systems, and mental scaffolds for backend product acceleration.
 
-We don't just build code — we design execution systems: developer blueprints, cognitive scaffolds, and system-first operating models.
+We don’t just write code — we build **thinking OSes**:  
+execution architectures, developer blueprints, and system-first operating models to compress cognitive load and scale clarity.
 
-This is the engine behind **Nebula Dev Studio** and the foundation of modular execution at scale.
+This is the engine behind **Nebula Dev Studio** and the inner sandbox of **system thinkers** who believe in building fast by thinking better — not just working harder.
 
 ---
 
@@ -20,39 +21,58 @@ This is the engine behind **Nebula Dev Studio** and the foundation of modular ex
 
 ---
 
-## 📁 Lab Structure   
+## 🧩 Lab Structure   
 
-/core → OS model, mental blueprints, design principles   
-/library → Curated references, research notes (synthesized)   
-/experiments → Prototypes, system scaffolds, technical sketches   
-/weekly-notes → Logs, insights, blockers, evolving patterns   
-/meta-layer → Meta logs, system maps, decision archives     
+📁 /core → OS model, system principles, cognitive frameworks   
+📁 /library → Research notes, technical synthesis, curated references   
+📁 /experiments → Prototypes, internal scaffolds, execution sketches   
+📁 /weekly-notes → Thought logs, blockers, progress, evolution notes   
+📁 /meta-layer → Decision maps, lab structure, system logs, evolution flow   
 
 
 ---
 
 ## 🛠️ Tech & Thinking Stack
 
-- **System Design** — execution architecture, infra models, modular logic
-- **Cognitive Engineering** — compression of mental load, scaffolds
-- **Developer Infra** — delivery pipelines, reusable modules
-- **Cloud & DevOps** — Kubernetes, Terraform, Serverless, CI/CD
+- **System Design** — Execution architecture, internal platform blueprints  
+- **Cognitive Engineering** — Mental overhead compression, clarity scaffolds  
+- **Dev Infra** — CI/CD pipelines, internal tools, scaffolds for speed  
+- **Cloud Infra** — Kubernetes, Terraform, AWS, Serverless design
 
 ---
 
-## 🧬 Core Belief
+## 🧠 Core Belief
 
-> We build not to ship faster — but to think better.  
-> Fast execution is a byproduct of good internal systems.
-
----
-
-## 🔗 Related
-
-- **🏗 Nebula Dev Studio:** [github.com/nebula-dev-studio](https://github.com/nebula-dev-studio)  
-- **👤 Personal (ltndat):** [github.com/ltndat](https://github.com/ltndat)  
-- **🌐 Notion Lab Hub:** [secondmindlab.notion.site](https://secondmindlab.notion.site)
+> We don’t build to ship faster — we build to think better.  
+> Fast shipping is a **byproduct** of precise systems.
 
 ---
 
-Feel free to explore, fork, or contribute to the thinking systems.
+## 💡 Related Systems
+
+- 🛰️ [Nebula Dev Studio](https://github.com/nebula-dev-studio) → Product execution powered by Second Mind OS  
+- 🧪 [Personal Systems](https://github.com/ltndat) → Engineer's second brain & rapid build playground  
+
+---
+
+## 📄 License
+
+[MIT License](./LICENSE)
+
+---
+
+## 📌 Repo Meta
+
+- **Tags:** `second mind`, `developer platform`, `system design`, `execution architecture`, `cognitive scaffolds`, `internal systems`  
+- **GitHub Description:** `A systems lab for backend thinkers – build developer platforms, mental OSes, and execution scaffolds.`  
+- **Pinned GitHub Title (right panel):** `Second Mind OS Lab · Cognitive Systems for Builders`
+
+---
+
+## 🚀 Clarity → Speed → Scale
+
+This lab powers internal delivery systems, helps engineers think at a higher level, and creates reusable scaffolds to scale backend clarity.
+
+Always evolving — always building.
+
+---
