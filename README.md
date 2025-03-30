@@ -67,7 +67,7 @@ If you're building thinking systems or internal developer platforms, feel free t
 ## 💡 Related Systems
 
 - 🛰️ [Nebula Dev Studio](https://github.com/nebula-dev-studio) → Product execution powered by Second Mind OS  
-- 🧪 [Personal Systems](https://github.com/ltndat) → Engineer's second brain & rapid build playground  
+- 🧪 [YOU] → Engineer's second brain & rapid build playground  
 
 
 > Internal developer systems, backend architecture, execution blueprints.
