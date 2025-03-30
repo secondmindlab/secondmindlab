@@ -67,4 +67,4 @@ This lab powers internal delivery systems, helps engineers think at a higher lev
 
 Always evolving — always building.
 
----
+> Internal developer systems, backend architecture, execution blueprints.
