@@ -1,0 +1,17 @@
+# OS Lab
+__pycache__/
+*.log
+*.env
+.DS_Store
+.ipynb_checkpoints/
+*.swp
+*.bak
+
+# Markdown/Notes
+*.pdf
+*.docx
+*.pptx
+
+# Python Experiments
+venv/
+.env
