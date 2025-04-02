@@ -1,4 +1,4 @@
-# 🧠 Second Mind OS Lab
+# Second Mind OS Lab
 
 > A systems R&D lab for builders who think deeply and build precisely.  
 > This is the internal cognitive & execution layer behind **Nebula Dev Studio**.
