@@ -61,7 +61,7 @@ Use, remix, and fork for your own lab if it helps your thinking scale better.
 ## 📥 Contributions
 
 This repo is currently private-R&D.  
-If you're building thinking systems or internal developer platforms, feel free to open a discussion or connect via [ltndat.dev@gmail.com](mailto:ltndat.dev@gmail.com).
+If you're building thinking systems or internal developer platforms, feel free to open a discussion or connect via [secondmindlab](mailto:secondmindlab@gmail.com).
 
 
 ## 💡 Related Systems
