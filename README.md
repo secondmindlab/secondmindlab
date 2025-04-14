@@ -1,22 +1,26 @@
+```md
 # Second Mind OS Lab
 
-> A systems R&D lab for builders who think deeply and build precisely.  
-> This is the internal cognitive & execution layer behind **Nebula Dev Studio**.
+> A public R&D interface for builders designing internal developer systems, mental scaffolds, and backend execution models.
+>
+> This repo is the **modular, forkable layer** of the Second Mind OS Lab — the deep system design lab powering [Nebula Dev Studio](https://github.com/nebuladstudio).
 
 ---
 
 ## 🧬 Overview
 
-**Second Mind OS Lab** is a self-directed R&D lab focused on building internal developer platforms, execution systems, and mental scaffolds for backend product acceleration.
+**Second Mind OS Lab** is a systems-first R&D lab focused on designing internal platforms, mental models, and scalable backend architectures.
 
-We don't just build code — we design execution systems:  
-- 🧩 Developer OS blueprints  
-- 🛠️ Internal scaffolds & delivery frameworks  
-- 🧠 Mental models & decision layers  
+We don't just build code — we design **execution systems**:
 
-This is the engine behind **Nebula Dev Studio** and the inner sandbox of **system thinkers** who believe in building fast by thinking better — not just working harder.
+- 🧩 Developer OS blueprints
+- 🛠️ Internal scaffolds & delivery frameworks
+- 🧠 Decision layers & clarity tools
 
+🔗 Core thinking and deep logics live in Notion (lab journal):  
+→ [secondmind.notion.site/lab](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49)
 
+This repo is the **public-facing interface** — optimized for reuse, scaling, and open knowledge sharing.
 
 ## 🔭 Purpose
 
@@ -24,50 +28,59 @@ This is the engine behind **Nebula Dev Studio** and the inner sandbox of **syste
 
 ---
 
-## 🧩 Lab Structure   
+## 🧩 Lab Structure
+```
 
-📁 /core → OS model, system principles, cognitive frameworks   
-📁 /library → Research notes, technical synthesis, curated references   
-📁 /experiments → Prototypes, internal scaffolds, execution sketches   
-📁 /weekly-notes → Thought logs, blockers, progress, evolution notes   
-📁 /meta-layer → Decision maps, lab structure, system logs, evolution flow   
+📁 /logs → Public build logs (recaps, outcomes, patterns)  
+📁 /blueprints → System design templates & reusable thinking scaffolds  
+📁 /experiments → Technical sketches, infra trials, execution prototypes  
+📁 /references → Curated notes from systems research & CS theory  
+📁 /meta → Roadmap, vision shifts, Lab evolution notes
 
+```
 
 
 
 ## 🛠️ Tech & Thinking Stack
 
-- **System Design** — Execution architecture, internal platform blueprints  
-- **Cognitive Engineering** — Mental overhead compression, clarity scaffolds  
-- **Dev Infra** — CI/CD pipelines, internal tools, scaffolds for speed  
-- **Cloud Infra** — Kubernetes, Terraform, AWS, Serverless design
+- **System Design** — Execution architectures, decision-first platforms
+- **Cognitive Engineering** — Mental compression, modeling clarity
+- **Dev Infra** — Internal tooling, scalable pipelines, delivery scaffolds
+- **Cloud Infra** — Terraform, K8s, Serverless, distributed queues
 
-
+---
 
 ## 🧬 Core Belief
 
-> We build not to ship faster — but to **think better**.  
-> Fast shipping is a **byproduct** of precise systems.
-
+> We build not just to ship faster — but to **think better**.
+> Clarity and speed are outcomes of sharp systems, not just better tools.
 
 
 
 ## 📄 License
 
-[MIT License](./LICENSE) — Open to builders, system thinkers, and internal platform engineers.  
-Use, remix, and fork for your own lab if it helps your thinking scale better.
+MIT — Use, remix, or fork for your own internal labs or system design work.
+
+---
+
+## 🙋‍♂️ Contributions
+
+This is an open R&D repo — contributions are welcome if you're:
+- Building execution systems for engineering teams
+- Designing internal dev platforms
+- Exploring cognitive workflows for better software delivery
+
+Open a discussion or reach out:
+📧 [secondmindlab@gmail.com](mailto:secondmindlab@gmail.com)
 
 
-## 📥 Contributions
 
-This repo is currently private-R&D.  
-If you're building thinking systems or internal developer platforms, feel free to open a discussion or connect via [secondmindlab](mailto:secondmindlab@gmail.com).
+## 🔗 Related Systems
 
+- 🛰️ [Nebula Dev Studio](https://github.com/nebuladstudio) — Product layer powered by this Lab
+- 🧪 [Notion Lab Journal](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
 
-## 💡 Related Systems
+> Internal developer systems, backend architecture, clarity-by-design.
+```
 
-- 🛰️ [Nebula Dev Studio](https://github.com/nebula-dev-studio) → Product execution powered by Second Mind OS  
-- 🧪 [YOU] → Engineer's second brain & rapid build playground  
-
-
-> Internal developer systems, backend architecture, execution blueprints.
+---
