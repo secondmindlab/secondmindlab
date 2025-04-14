@@ -1,16 +1,16 @@
 # Log Entry: [TITLE HERE]
 
 ---
-log-id: [yyyy-mm-title-kebab]
-phase: [phase-name]
-date: [yyyy-mm]
-layer: os-lab → [optional-sub-layer] → [execution/personal/studio]
-type: [learning/mapping/building] → [focus-area]
-status: [draft/in-progress/completed]
-linked-output:
-  - type: [personal/studio/internal]
-    label: [Output Label Here]
-    url: https://example.com
+log-id: [yyyy-mm-title-kebab]  
+phase: [phase-name]  
+date: [yyyy-mm]  
+layer: os-lab → [optional-sub-layer] → [execution/personal/studio]  
+type: [learning/mapping/building] → [focus-area]  
+status: [draft/in-progress/completed]  
+linked-output:  
+  - type: [personal/studio/internal]  
+    label: [Output Label Here]  
+    url: https://example.com  
 ---
 
 ## 📍 Context
