@@ -55,8 +55,8 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 ## 📤 Output
 
 - Medium Article (Personal Layer): [“How I Designed Open CS Programs from Harvard, MIT, and Stanford Into My Founder Journey”](https://medium.com/@ltndat/how-i-designed-open-cs-programs-from-harvard-mit-and-stanford-into-my-founder-journey-12043730c428)  
-  ↳ Layer: Personal → OS Lab → Article  
-  ↳ Published as a co-founder
+  → Layer: Personal → OS Lab → Article  
+  → Published as a co-founder
 
 ## 🧭 Notes & Future Trace Seeds
 
@@ -71,8 +71,8 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 ## 🔗 Internal Reference
 
 - **📓 Notion Log (private, request-only)**  
-  ↳ Title: [“Second Mind OS Log – 2025-04 – Open CS Integration”](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
-  ↳ Includes full internal debug session, infra diagrams, and cross-layer mapping graphs.
+  → Title: [“Second Mind OS Log – 2025-04 – Open CS Integration”](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
+  → Includes full internal debug session, infra diagrams, and cross-layer mapping graphs.
 
 (Note: This artifact emerged from Lab System Loops)
 

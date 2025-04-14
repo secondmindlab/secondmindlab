@@ -64,8 +64,8 @@ If relevant, include tangible reflections or mappings:
 List clearly where this trace loop surfaced into tangible output (if any):
 
 - [Output Title](https://example.com)  
-  ↳ Layer: [Personal/Studio]  
-  ↳ Context: [Blog post, internal diagram, shipped infra, etc.]
+  → Layer: [Personal/Studio]  
+  → Context: [Blog post, internal diagram, shipped infra, etc.]
 
 ## 🧭 Notes & Future Trace Seeds
 
@@ -78,8 +78,8 @@ List clearly where this trace loop surfaced into tangible output (if any):
 ## 🔗 Internal Reference
 
 - **📓 Notion Log (private, request-only)**  
-  ↳ Title: ["Second Mind OS – YYYY-MM – [Log Name]"](https://link-to-notion-if-used.com)  
-  ↳ Contains: raw debug traces, deeper architectural diagrams, thought stack pivots.
+  → Title: ["Second Mind OS – YYYY-MM – [Log Name]"](https://link-to-notion-if-used.com)  
+  → Contains: raw debug traces, deeper architectural diagrams, thought stack pivots.
 
 > _This is a Lab log entry — not a tutorial.  
 > It reflects one internal pass through the Second Mind OS loop.  
