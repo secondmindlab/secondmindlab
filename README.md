@@ -1,4 +1,3 @@
-```md
 # Second Mind OS Lab
 
 > A public R&D interface for builders designing internal developer systems, mental scaffolds, and backend execution models.
@@ -29,14 +28,13 @@ This repo is the **public-facing interface** — optimized for reuse, scaling, a
 ---
 
 ## 🧩 Lab Structure
-```
 
+```
 📁 /logs → Public build logs (recaps, outcomes, patterns)  
 📁 /blueprints → System design templates & reusable thinking scaffolds  
 📁 /experiments → Technical sketches, infra trials, execution prototypes  
 📁 /references → Curated notes from systems research & CS theory  
 📁 /meta → Roadmap, vision shifts, Lab evolution notes
-
 ```
 
 
@@ -81,6 +79,5 @@ Open a discussion or reach out:
 - 🧪 [Notion Lab Journal](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
 
 > Internal developer systems, backend architecture, clarity-by-design.
-```
 
 ---
