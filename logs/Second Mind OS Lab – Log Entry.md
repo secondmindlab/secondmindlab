@@ -11,9 +11,9 @@ linked-output:
   - type: [personal/studio/internal]  
     label: [Output Label Here]  
     url: https://example.com  
-  <!-- - type: studio (optional) -->  
-    <!-- label: Planned integration -->  
-    <!-- path: /infra/second-mind-thought-runtime -->  
+<!-- - type: studio (optional) -->  
+<!-- label: Planned integration -->  
+<!-- path: /infra/second-mind-thought-runtime -->  
 ---
 
 ## 📍 Context
