@@ -15,7 +15,7 @@ We don't just build code — we design **execution systems**:
 - 🧠 Decision layers & clarity tools
 
 🔗 Core thinking and deep logics live in Notion (lab journal):  
-→ [secondmind.notion.site/lab](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49)
+→ [secondmindlab.notion.site](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49)
 
 This repo is the **public-facing interface** — optimized for reuse, scaling, and open knowledge sharing.
 
@@ -23,17 +23,13 @@ This repo is the **public-facing interface** — optimized for reuse, scaling, a
 
 > Build a modular Thinking OS for engineers — to think clearly, build systematically, and scale effortlessly.
 
----
-
 ## 🧩 Lab Structure
 
-```
-📁 /logs → Public build logs (recaps, outcomes, patterns)
-📁 /blueprints → System design templates & reusable thinking scaffolds
-📁 /experiments → Technical sketches, infra trials, execution prototypes
-📁 /references → Curated notes from systems research & CS theory
-📁 /meta → Roadmap, vision shifts, Lab evolution notes
-```
+📁 [/logs](./logs/README.md) → Public build logs (recaps, outcomes, patterns)  
+📁 [/blueprints](./blueprints/README.md) → System design templates & reusable thinking scaffolds  
+📁 [/experiments](./experiments/README.md) → Technical sketches, infra trials, execution prototypes  
+📁 [/references](./references/README.md) → Curated notes from systems research & CS theory  
+📁 [/meta](./meta/README.md) → Roadmap, vision shifts, Lab evolution notes
 
 ## 🛠️ Tech & Thinking Stack
 
