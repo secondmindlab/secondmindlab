@@ -1,53 +1,99 @@
 # Second Mind OS Lab
 
-> A public R&D interface for builders designing internal developer systems, mental scaffolds, and backend execution models.
->
-> This repo is the **modular, forkable layer** of the Second Mind OS Lab — the deep system design lab powering [Nebula Dev Studio](https://github.com/nebuladstudio).
+> _R&D Lab for Cognitive Infra and Mental Architecture_
 
-## 🧬 Overview
+A public R&D interface for builders designing internal developer systems, mental scaffolds, and backend execution models.
+This repo is the **modular, forkable layer** of the Second Mind OS Lab — the deep system design lab powering [**@Mindframe Forge**](https://github.com/mindfforge).
 
-**Second Mind OS Lab** is a systems-first R&D lab focused on designing internal platforms, mental models, and scalable backend architectures.
+## 🧪 Lab Signature
 
-We don't just build code — we design **execution systems**:
+- **Name**: Second Mind OS — Systems Lab
+- **Focus**: Recursive Systems Thinking, Developer Cognitive Infra, Execution Engine Design
+- **Methodology**: Loop-first R&D, Feedback Compression, Blueprint-to-Infra Translation
+- **Output**: Protocols, Namespaces, Runtime Blueprints, Public Systems
 
-- 🧩 Developer OS blueprints
-- 🛠️ Internal scaffolds & delivery frameworks
-- 🧠 Decision layers & clarity tools
+## About the Lab
 
-🔗 Core thinking and deep logics live in Notion (lab journal):  
+**Second Mind OS Lab** is a recursive R&D lab focused on building internal developer systems that compress decision overhead and scale backend execution.
+
+We don’t just build tools — we design **systems that think**:  
+→ Modular OS architectures  
+→ Infra-aware blueprints  
+→ Mental model scaffolds  
+→ Loop-driven infra protocols
+
+This lab powers **Mindframe Forge**, but runs independently as a system-design-first cognitive engine.
+
+> Code is the last layer. System thinking comes first.
+
+This is the **public interface** of the Second Mind OS Lab.  
+→ Internal traces, deep architecture thinking live in Notion:  
 → [secondmindlab.notion.site](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49)
 
 This repo is the **public-facing interface** — optimized for reuse, scaling, and open knowledge sharing.
 
-## 🔭 Purpose
+## Lab OS Map
 
-> Build a modular Thinking OS for engineers — to think clearly, build systematically, and scale effortlessly.
+⚙️ [**`/core`**](./core/README.md) → System blueprints, patterns, and execution mental models.  
+🧪 [**`/experiment`**](./core/README.md) → Prototypes, system scaffolds, and loopable technical trials.  
+📃 [**`/logs`**](./logs/README.md) → Atomic loop entries — system iterations, forks, and reflections.  
+🗂️ [**`/library`**](./core/README.md) → Distilled reference materials — papers, mappings, and citations.  
+🩺 [**`/rhythm`**](./core/README.md) → Weekly execution trace — blockers, flows, and loop pulses.  
+🏛 [**`/meta`**](./core/README.md) → Lab protocols, decisions, version deltas, and architecture evolution.  
+🧬 [**`/pattern`**](./core/README.md) → Execution DNA — extracted schemas, mental scaffolds, feedback invariants.  
+🌐 [**`/site`**](./core/README.md) → Public Second Mind OS Lab website.
 
-## 🧩 Lab Structure
+### Recursive Execution Engine
 
-📁 [/logs](./logs/README.md) → Public build logs (recaps, outcomes, patterns)  
-📁 [/blueprints](./blueprints/README.md) → System design templates & reusable thinking scaffolds  
-📁 [/experiments](./experiments/README.md) → Technical sketches, infra trials, execution prototypes  
-📁 [/references](./references/README.md) → Curated notes from systems research & CS theory  
-📁 [/meta](./meta/README.md) → Roadmap, vision shifts, Lab evolution notes
+Second Mind OS Lab evolves through a loop-first execution engine — not by planning ahead, but by compounding small, high-fidelity iterations into scalable systems.
 
-## 🛠️ Tech & Thinking Stack
+```mermaid
+graph LR
+  Logs
+  Rhythm
+  Pattern
+  Meta
+  Core
+  Experiment
+  Library
 
-- **System Design** — Execution architectures, decision-first platforms
-- **Cognitive Engineering** — Mental compression, modeling clarity
-- **Dev Infra** — Internal tooling, scalable pipelines, delivery scaffolds
-- **Cloud Infra** — Terraform, K8s, Serverless, distributed queues
+  Logs --> Rhythm
+  Rhythm --> Pattern
+  Pattern --> Meta
+  Meta --> Core
+  Core --> Experiment
+  Experiment --> Library
+  Library --> Logs
+```
 
-## 🧬 Core Belief
+## Purpose
 
-> We build not just to ship faster — but to **think better**.
-> Clarity and speed are outcomes of sharp systems, not just better tools.
+> Build a modular thinking OS for engineers — to think clearly, build systematically, and scale effortlessly.
 
-## 📄 License
+Build the recursive thinking OS for founders & engineers:
+→ To design with clarity  
+→ Execute with systems  
+→ Scale with leverage
 
-MIT — Use, remix, or fork for your own internal labs or system design work.
+## Lab Belief
 
-## 🙋‍♂️ Contributions
+> Execution is a function of system clarity.  
+> If you can name it, map it, and loop it — you can scale it.
+
+### Thinking Stack
+
+- **System Architecture** → Modular OS, pattern-driven execution
+- **Infra Design** → Internal dev platforms, pipelines, latency-aware infra
+- **Cognitive Compression** → Decision scaffolds, feedback shaping
+- **Runtime Modeling** → Blueprint → Protocol → Infra
+
+---
+
+## License
+
+[**`MIT`**](./MIT) — Use, remix, or fork for your own internal labs or system design work.
+
+## Contributions
 
 This is an open R&D repo — contributions are welcome if you're:
 
@@ -56,11 +102,11 @@ This is an open R&D repo — contributions are welcome if you're:
 - Exploring cognitive workflows for better software delivery
 
 Open a discussion or reach out:
-📧 [secondmindlab@gmail.com](mailto:secondmindlab@gmail.com)
+[secondmindlab@gmail.com](mailto:secondmindlab@gmail.com)
 
-## 🔗 Related Systems
+## Related Systems
 
-- 🛰️ [Nebula Dev Studio](https://github.com/nebuladstudio) — Product layer powered by this Lab
-- 🧪 [Notion Lab Journal](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
+- [**⚒️ Mindframe Forge**](https://github.com/mindfforge) — Product layer powered by this Lab
+- [**🧪 Notion Lab Journal**](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
 
 > Internal developer systems, backend architecture, clarity-by-design.

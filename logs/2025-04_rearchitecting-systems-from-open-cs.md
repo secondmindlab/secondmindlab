@@ -1,4 +1,4 @@
-# Log Entry: Re-Architecting Systems from Open CS Foundations
+# 📃 Log Entry: Re-Architecting Systems from Open CS Foundations
 
 ---
 log-id: 2025-04-open-cs-integration  
@@ -13,12 +13,12 @@ linked-output:
     url: https://medium.com/@ltndat/how-i-designed-open-cs-programs-from-harvard-mit-and-stanford-into-my-founder-journey-12043730c428  
 ---
 
-## 📍 Context
+## Summary
 
 Open CS curriculums (`MIT`, `Harvard`, `Stanford`) offer deep, structured system insights — but often stay abstract.  
 This log traces how they were reframed and repurposed directly into runtime product infra decisions.
 
-## 🧱 System Trace
+## System Trace
 
 ```mermaid
 flowchart TD
@@ -35,15 +35,37 @@ CS Foundations (Open)
 → [2025-04-04] Runtime Decisions (Infra/API/Latency)  
 → [2025-04-07] Public Reflection (Medium)
 
-## 🔧 Core System Loop
+## 🔁 Core System Loop
 
 - Iterative system framing across multiple CS paradigms
 - Internal loops focused on reconciling latency tradeoffs, infra composition, and modular scalability
 - Structured reflection via layered feedback cycles (learning → mapping → infra shaping)
 
-## 🛠️ Infra Outcomes
+| Loop   | Action                                                   |
+| ------ | -------------------------------------------------------- |
+| **1.** | Extract primitives (e.g., CS50, MIT OS...)               |
+| **2.** | Cross-map to infra design (e.g., ECS, Celery, Lambda)    |
+| **3.** | Stress test abstraction against constraints              |
+| **4.** | Compare academic vs applied mappings                     |
+| **5.** | Publish synthesis (reflection, post-mortem, or protocol) |
 
-This log traces how primitives from MIT OS and Harvard CS50 were translated into [Nebula Dev Studio](https://github.com/nebuladstudio)’s early infra:
+## 🚫 Failed Loop Snapshots
+
+| Loop | Failure Reason                                   | Resolution                             |
+| ---- | ------------------------------------------------ | -------------------------------------- |
+| 2    | Single-queue Celery model bottlenecked under ECS | Added fallback queues + autoscaling    |
+| 3    | CS50 tests failed abstraction mapping            | Switched to API contract harness       |
+| 4    | Sync latency debug = invalid                     | Switched to async + traffic simulation |
+
+## Time Snapshot
+
+- Total Iteration: 18 hours
+- Design Probes: ~27 (across 4 loops)
+- Published: 2025-04-12
+
+## ⚒️ Infra Outcomes
+
+This log traces how primitives from MIT OS and Harvard CS50 were translated into [Mindframe Forge](https://github.com/mindfforge)’s early infra:
 
 | Concept                      | Product Reflection                    |
 | ---------------------------- | ------------------------------------- |
@@ -52,13 +74,13 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 | `Queue architecture`         | SQS + async Celery job runners        |
 | `Compute/storage separation` | ECS + Terraform config templates      |
 
-## 📤 Output
+## Output Artifacts
 
-- Medium Article (Personal Layer): [“How I Designed Open CS Programs from Harvard, MIT, and Stanford Into My Founder Journey”](https://medium.com/@ltndat/how-i-designed-open-cs-programs-from-harvard-mit-and-stanford-into-my-founder-journey-12043730c428)  
-  → Layer: Personal → OS Lab → Article  
-  → Published as a co-founder
+- Medium Article ⚓ (Personal Layer): [“How I Designed Open CS Programs from Harvard, MIT, and Stanford Into My Founder Journey”](https://medium.com/@ltndat/how-i-designed-open-cs-programs-from-harvard-mit-and-stanford-into-my-founder-journey-12043730c428)  
+  → Layer: ⚓ Personal → 🧱 OS Lab → Article  
+  → Published as a co-founder [@ltndat](https://github.com/ltndat)
 
-## 🧭 Notes & Future Trace Seeds
+## Notes & Future Trace Seeds
 
 - This public log is structured for other founders/teams to fork and adapt structured learning into build-ready insight.
 - Internal system traces and debugging layers are kept within the private Notion logs.
@@ -68,10 +90,10 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 
 ---
 
-## 🔗 Internal Reference
+## References
 
-- **📓 Notion Log (private, request-only)**  
-  → Title: [“Second Mind OS Log – 2025-04 – Open CS Integration”](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
+- **📃 Notion Log (private, request-only)**  
+  → Title: [“📃 Second Mind OS Log – 2025-04 – Open CS Integration”](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
   → Includes full internal debug session, infra diagrams, and cross-layer mapping graphs.
 
 (Note: This artifact emerged from Lab System Loops)
