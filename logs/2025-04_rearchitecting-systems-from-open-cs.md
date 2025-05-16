@@ -65,7 +65,7 @@ CS Foundations (Open)
 
 ## ⚒️ Infra Outcomes
 
-This log traces how primitives from MIT OS and Harvard CS50 were translated into [Mindframe Forge](https://github.com/mindfforge)’s early infra:
+This log traces how primitives from MIT OS and Harvard CS50 were translated into [`⚒️ Mindframe Forge`](https://github.com/mindfforge)’s early infra:
 
 | Concept                      | Product Reflection                    |
 | ---------------------------- | ------------------------------------- |

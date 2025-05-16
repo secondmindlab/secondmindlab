@@ -95,7 +95,7 @@ If relevant, include tangible reflections or mappings:
 List clearly where this trace loop surfaced into tangible output (if any):
 
 - [Output Title](https://example.com)  
-  → Layer: [Personal/Studio]  
+  → Layer: [⚓ Personal / ⚒️ Execution / 🧱 Lab]  
   → Context: [Blog post, internal diagram, shipped infra, etc.]
 
 ### Notes & Future Trace Seeds

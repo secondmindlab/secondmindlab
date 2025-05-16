@@ -93,7 +93,7 @@ Build the recursive thinking OS for founders & engineers:
 
 ## License
 
-[**`MIT`**](./MIT) — Use, remix, or fork for your own internal labs or system design work.
+[**`MIT`**](./LICENSE) — Use, remix, or fork for your own internal labs or system design work.
 
 ## Contributions
 
@@ -109,6 +109,6 @@ Open a discussion or reach out:
 ## Related Systems
 
 - [**⚒️ Mindframe Forge**](https://github.com/mindfforge) — Product layer powered by this Lab
-- [**🧪 Notion Lab Journal**](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
+- [**🧱 Notion Lab Journal**](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
 
 > Internal developer systems, backend architecture, clarity-by-design.
