@@ -32,16 +32,18 @@ This is the **public interface** of the Second Mind OS Lab.
 
 This repo is the **public-facing interface** — optimized for reuse, scaling, and open knowledge sharing.
 
+---
+
 ## Lab OS Map
 
 ⚙️ [**`/core`**](./core/README.md) → System blueprints, patterns, and execution mental models.  
-🧪 [**`/experiment`**](./core/README.md) → Prototypes, system scaffolds, and loopable technical trials.  
+🧪 [**`/experiment`**](./experiment/README.md) → Prototypes, system scaffolds, and loopable technical trials.  
 📃 [**`/logs`**](./logs/README.md) → Atomic loop entries — system iterations, forks, and reflections.  
-🗂️ [**`/library`**](./core/README.md) → Distilled reference materials — papers, mappings, and citations.  
-🩺 [**`/rhythm`**](./core/README.md) → Weekly execution trace — blockers, flows, and loop pulses.  
-🏛 [**`/meta`**](./core/README.md) → Lab protocols, decisions, version deltas, and architecture evolution.  
-🧬 [**`/pattern`**](./core/README.md) → Execution DNA — extracted schemas, mental scaffolds, feedback invariants.  
-🌐 [**`/site`**](./core/README.md) → Public Second Mind OS Lab website.
+🗂️ [**`/library`**](./library/README.md) → Distilled reference materials — papers, mappings, and citations.  
+🩺 [**`/rhythm`**](./rhythm/README.md) → Weekly execution trace — blockers, flows, and loop pulses.  
+🏛 [**`/meta`**](./meta/README.md) → Lab protocols, decisions, version deltas, and architecture evolution.  
+🧬 [**`/pattern`**](./pattern/README.md) → Execution DNA — extracted schemas, mental scaffolds, feedback invariants.  
+🌐 [**`/site`**](./site/README.md) → Public Second Mind OS Lab website.
 
 ### Recursive Execution Engine
 
