@@ -45,7 +45,7 @@ CS Foundations (Open)
 | ------ | -------------------------------------------------------- |
 | **1.** | Extract primitives (e.g., CS50, MIT OS...)               |
 | **2.** | Cross-map to infra design (e.g., ECS, Celery, Lambda)    |
-| **3.** | Stress test abstraction against constraints              |
+| **3.** | Test abstraction integrity under system constraints      |
 | **4.** | Compare academic vs applied mappings                     |
 | **5.** | Publish synthesis (reflection, post-mortem, or protocol) |
 
@@ -84,6 +84,7 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 
 - This public log is structured for other founders/teams to fork and adapt structured learning into build-ready insight.
 - Internal system traces and debugging layers are kept within the private Notion logs.
+- Multi-perspective probes (internal) were applied across system design layers to expose abstraction misalignments.
 - Reflections here abstract away internal system tracebacks and architectural pivots.
 - Feedback loops (internal & external) were crucial in evolving raw learning into executable infra.
 - Full trace available in private Notion log (includes layer-specific iterations, thought stack re-maps, infra deltas).
@@ -93,7 +94,7 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 ## References
 
 - **📃 Notion Log (private, request-only)**  
-  → Title: [“📃 Second Mind OS Log – 2025-04 – Open CS Integration”](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
+  → Title: ["📃 Second Mind OS Log – 2025-04 – Open CS Integration"](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
   → Includes full internal debug session, infra diagrams, and cross-layer mapping graphs.
 
 (Note: This artifact emerged from Lab System Loops)

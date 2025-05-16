@@ -8,32 +8,32 @@ This document specifies the emoji symbols used within the Second Mind OS Lab to 
 
 ### Core Loop Layers (Canonical)
 
-| Layer          | Emoji | Semantic Role                                                                  |
-| -------------- | ----- | ------------------------------------------------------------------------------ |
-| `Meta::`       | 🏛     | Protocol & control plane — system governance, version diffs, structural rules. |
-| `Core::`       | ⚙️    | Cognitive engine — system architecture, blueprint canon, OS primitives.        |
-| `Experiment::` | 🧪    | Trial layer — forks, tests, scaffolds, runtime hypotheses.                     |
-| `Logs::`       | 📃    | Signal trace — atomic system pings, observations, causal markers.              |
-| `Rhythm::`     | 🩺    | System pulse — weekly state, flow blockers, continuity trace.                  |
-| `Pattern::`    | 🧬    | Execution DNA — extracted schemas, mental scaffolds, feedback invariants.      |
-| `Library::`    | 🗂️    | Reference base — mapped research, citations, paper distillations.              |
-| `Lab::`        | 🧱    | Operational backbone of the Lab itself                                         |
-| `Execution::`  | ⚒️    | System runtime, product pipeline                                               |
-| `Personal::`   | ⚓    | Person ops, private loops, unmerged drafts                                     |
+| Layer        | Emoji | Semantic Role                                                                  |
+| ------------ | ----- | ------------------------------------------------------------------------------ |
+| `meta`       | 🏛     | Protocol & control plane — system governance, version diffs, structural rules. |
+| `core`       | ⚙️    | Cognitive engine — system architecture, blueprint canon, OS primitives.        |
+| `experiment` | 🧪    | Trial layer — forks, tests, scaffolds, runtime hypotheses.                     |
+| `logs`       | 📃    | Signal trace — atomic system pings, observations, causal markers.              |
+| `rhythm`     | 🩺    | System pulse — weekly state, flow blockers, continuity trace.                  |
+| `pattern`    | 🧬    | Execution DNA — extracted schemas, mental scaffolds, feedback invariants.      |
+| `library`    | 🗂️    | Reference base — mapped research, citations, paper distillations.              |
+| `lab`        | 🧱    | Operational backbone of the Lab itself                                         |
+| `execution`  | ⚒️    | System runtime, product pipeline                                               |
+| `personal`   | ⚓    | Person ops, private loops, unmerged drafts                                     |
 
 ### Protocol Subdomains (Optional Expansion)
 
-| Namespace    | Emoji       | Meaning                          |
-| ------------ | ----------- | -------------------------------- |
-| `Protocol::` | 📏          | System constraint / schema rules |
-| `Fork::`     | 🌿          | Divergence, loop split           |
-| `Agent::`    | 🧑‍🚀          | Cognitive actor / LLM agent      |
-| `Override::` | ⛔          | Force override, protocol lock    |
-| `Claim::`    | 📣          | Asserted belief or statement     |
-| `Verdict::`  | ✅ / ❌ / ⚖ | Final resolution outcome         |
-| `Delta::`    | 🔀          | System change or mutation        |
-| `Blocker::`  | 🚧          | Flow stopper                     |
-| `Resolved::` | 🛠️          | Closed loop / solved issue       |
+| Namespace  | Emoji       | Meaning                          |
+| ---------- | ----------- | -------------------------------- |
+| `protocol` | 📏          | System constraint / schema rules |
+| `fork`     | 🌿          | Divergence, loop split           |
+| `agent`    | 🧑‍🚀          | Cognitive actor / LLM agent      |
+| `override` | ⛔          | Force override, protocol lock    |
+| `claim`    | 📣          | Asserted belief or statement     |
+| `verdict`  | ✅ / ❌ / ⚖ | Final resolution outcome         |
+| `delta`    | 🔀          | System change or mutation        |
+| `blocker`  | 🚧          | Flow stopper                     |
+| `resolved` | 🛠️          | Closed loop / solved issue       |
 
 ### Log Microtags (Planned)
 
