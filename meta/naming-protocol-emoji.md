@@ -27,7 +27,7 @@ This document specifies the emoji symbols used within the Second Mind OS Lab to 
 | ---------- | ----------- | -------------------------------- |
 | `protocol` | 📏          | System constraint / schema rules |
 | `fork`     | 🌿          | Divergence, loop split           |
-| `agent`    | 🧑‍🚀          | Cognitive actor / LLM agent      |
+| `actor`    | 🚀          | Cognitive actor                  |
 | `override` | ⛔          | Force override, protocol lock    |
 | `claim`    | 📣          | Asserted belief or statement     |
 | `verdict`  | ✅ / ❌ / ⚖ | Final resolution outcome         |
@@ -37,7 +37,7 @@ This document specifies the emoji symbols used within the Second Mind OS Lab to 
 
 ### Log Microtags (Planned)
 
-_(Under development for auto-agent tagging and filter system)_
+_(Under development for auto-actor tagging and filter system)_
 
 | Tag          | Emoji | Usage                                   |
 | ------------ | ----- | --------------------------------------- |
@@ -46,7 +46,7 @@ _(Under development for auto-agent tagging and filter system)_
 | `deprecated` | ⚠️    | No longer active                        |
 | `locked`     | 🔒    | Frozen by override                      |
 | `flagged`    | 🚩    | Needs review                            |
-| `consensus`  | 🗳️    | Multi-agent agreement                   |
+| `consensus`  | 🗳️    | Multi-actor agreement                   |
 
 ### Why Emojis?
 

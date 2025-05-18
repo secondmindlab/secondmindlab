@@ -26,7 +26,7 @@ linked-output:
 This log formalizes the integration of Open Verification Layer (OVL) protocols into the symbol logic of Second Mind loop cards.
 
 Each claim on a loop card is now validated via a symbolic signature (`⌬`, `▣`, `◉`) tied to a verifiable system loop.  
-Each badge acts as a runtime marker: it exists only if supported by `logs`, confirmed via protocol trace, and reviewed by multi-agent simulation.
+Each badge acts as a runtime marker: it exists only if supported by `logs`, confirmed through protocol alignment, and tested for semantic and structural integrity.
 
 > Symbol ≠ style.  
 > Symbol = system state.
@@ -39,18 +39,16 @@ This ensures that public claims are not narrative, but structural — grounded i
 flowchart TD
     A[Symbol Definition]
     B[`logs` Binding Enforcement]
-    C[Multi-Agent Validation]
+    C[Multi-Perspective Validation]
     D[Public Symbol Publishing]
 
     A --> B --> C --> D
 ```
 
-```txt
-→ Define symbolic system
-→ Bind to closed loops
-→ Agent + Meta validation
-→ Public-facing symbol integrity
-```
+→ Define symbolic architecture  
+→ Bind to closed-loop logs  
+→ Validate across structural perspectives  
+→ Release symbol to public with trace integrity
 
 ## 🔁 Core System Loop
 
@@ -64,11 +62,11 @@ flowchart TD
 
 ### Symbol Mapping Table
 
-| Symbol | Layer Name      | Extended Meaning            | Verification Mechanism                             |
-| ------ | --------------- | --------------------------- | -------------------------------------------------- |
-| `⌬`    | Personal Layer  | Mindstamp or Narrative Loop | Self-loop log, timestamped, anchored to `personal` |
-| `▣`    | Execution Layer | Runtime Protocol            | Protocol compliance + internal simulation trace    |
-| `◉`    | Systemic Layer  | System Log Verified         | `logs` loop closure + `pattern` trace              |
+| Symbol | Layer Name      | Extended Meaning                       | Verification Mechanism                             |
+| ------ | --------------- | -------------------------------------- | -------------------------------------------------- |
+| `⌬`    | Personal Layer  | Mindstamp or Narrative Loop            | Self-loop log, timestamped, anchored to `personal` |
+| `▣`    | Execution Layer | Runtime Protocol                       | Protocol compliance + internal simulation trace    |
+| `◉`    | Systemic Layer  | System Verified or System Log Verified | `logs` loop closure + `pattern` trace              |
 
 ## 🚫 Failed Loop Snapshots
 
