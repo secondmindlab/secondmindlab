@@ -49,6 +49,14 @@ CS Foundations (Open)
 | **4.** | Compare academic vs applied mappings                     |
 | **5.** | Publish synthesis (reflection, post-mortem, or protocol) |
 
+### Mapping
+
+| Course       | Mapped Concept                   | Infra Realization                        |
+| ------------ | -------------------------------- | ---------------------------------------- |
+| Harvard CS50 | Input validation, modular tests  | API scaffolding, fail-fast structure     |
+| MIT OS       | Process schedulers, memory model | Async job runners with Celery + fallback |
+| Stanford SE  | Scalability patterns             | ECS compute/storage split, Terraform IAC |
+
 ## 🚫 Failed Loop Snapshots
 
 | Loop | Failure Reason                                   | Resolution                             |

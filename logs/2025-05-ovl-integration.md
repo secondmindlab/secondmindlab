@@ -26,21 +26,19 @@ linked-output:
 This log formalizes the integration of Open Verification Layer (OVL) protocols into the symbol logic of Second Mind loop cards.
 
 Each claim on a loop card is now validated via a symbolic signature (`⌬`, `▣`, `◉`) tied to a verifiable system loop.  
-Each badge acts as a runtime marker: it exists only if supported by Logs::, confirmed via protocol trace, and reviewed by multi-agent simulation.
+Each badge acts as a runtime marker: it exists only if supported by `logs`, confirmed via protocol trace, and reviewed by multi-agent simulation.
 
 > Symbol ≠ style.  
 > Symbol = system state.
 
 This ensures that public claims are not narrative, but structural — grounded in reproducible execution.
 
----
-
 ## System Trace
 
 ```mermaid
 flowchart TD
     A[Symbol Definition]
-    B[Logs:: Binding Enforcement]
+    B[`logs` Binding Enforcement]
     C[Multi-Agent Validation]
     D[Public Symbol Publishing]
 
@@ -54,19 +52,23 @@ flowchart TD
 → Public-facing symbol integrity
 ```
 
----
-
 ## 🔁 Core System Loop
 
 | Step   | Action                                          |
 | ------ | ----------------------------------------------- |
 | **1.** | Define system symbol structure (`⌬`, `▣`, `◉`)  |
-| **2.** | Enforce symbol ↔ Logs:: binding before render   |
+| **2.** | Enforce symbol ↔ `logs` binding before render   |
 | **3.** | Stress test via multi-path constraint probes    |
-| **4.** | Validate semantic alignment via Meta::Pattern   |
+| **4.** | Validate semantic alignment via `pattern`       |
 | **5.** | Confirm falsifiability & structure loop closure |
 
----
+### Symbol Mapping Table
+
+| Symbol | Layer Name      | Extended Meaning            | Verification Mechanism                             |
+| ------ | --------------- | --------------------------- | -------------------------------------------------- |
+| `⌬`    | Personal Layer  | Mindstamp or Narrative Loop | Self-loop log, timestamped, anchored to `personal` |
+| `▣`    | Execution Layer | Runtime Protocol            | Protocol compliance + internal simulation trace    |
+| `◉`    | Systemic Layer  | System Log Verified         | `logs` loop closure + `pattern` trace              |
 
 ## 🚫 Failed Loop Snapshots
 
@@ -75,15 +77,11 @@ flowchart TD
 | 2    | Issued `⌬` without personal loop          | Symbol issued before trace closure validation |
 | 3    | Premature `◉` issuance without agent pass | Require all-agent validation before publish   |
 
----
-
 ## Time Snapshot
 
 - Total Iteration: \~5.2 hours
 - Design Probes: \~8 (across 5 loops)
 - Published: 2025-05-07
-
----
 
 ## ⚒️ Infra Outcomes
 
@@ -104,8 +102,6 @@ flowchart TD
 - **Badge Verification Rule Table**
   → Layer: ⚒️ Execution
   → Context: Enforced via manual Ops; AutoSync pending
-
----
 
 ## Notes & Future Trace Seeds
 

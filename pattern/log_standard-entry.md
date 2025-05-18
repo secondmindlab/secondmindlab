@@ -16,7 +16,6 @@ linked-output:
 <!-- path: /infra/second-mind-thought-runtime -->  
 ---
 
-
 ### Layer
 
 - 🧱 `Lab Layer` → System design, cognition modeling
@@ -65,6 +64,12 @@ Example:
 | **3.** | Stress test abstraction against constraints              |
 | **4.** | Compare academic vs applied mappings                     |
 | **5.** | Publish synthesis (reflection, post-mortem, or protocol) |
+
+### Mapping
+
+| Course | Concept            | Infra Realization          |
+| ------ | ------------------ | -------------------------- |
+| MIT OS | Schedulers, memory | Async job runners (Celery) |
 
 ## 🚫 Failed Loop Snapshots
 
