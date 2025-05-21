@@ -38,7 +38,7 @@ This ensures that public claims are not narrative, but structural — grounded i
 ```mermaid
 flowchart TD
     A[Symbol Definition]
-    B[`logs` Binding Enforcement]
+    B[Logs Binding Enforcement]
     C[Multi-Perspective Validation]
     D[Public Symbol Publishing]
 
@@ -117,3 +117,8 @@ flowchart TD
 
 > _This log captures 1 full loop of system evolution inside Second Mind OS Lab.
 > Public symbols are now backed by structural logic, not belief or narrative._
+
+
+---
+
+> _Powered by Second Mind OS_

@@ -27,3 +27,5 @@
 | `/assets`  | Visual/capture layer forms       | Store mermaid diagrams, screenshots, media outputs                |
 
 ---
+
+> _Powered by Second Mind OS_

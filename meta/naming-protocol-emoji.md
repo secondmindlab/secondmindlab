@@ -61,3 +61,5 @@ _(Under development for auto-actor tagging and filter system)_
 - **Consistency:** The emoji selection is final and should not be altered unless there is significant feedback indicating a need for better representation.
 
 ---
+
+> _Powered by Second Mind OS_

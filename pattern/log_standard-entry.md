@@ -120,3 +120,8 @@ List clearly where this trace loop surfaced into tangible output (if any):
 > _This is a Lab log entry — not a tutorial.  
 > It reflects one internal pass through the Second Mind OS loop.  
 > Logs evolve. So do systems._
+
+
+---
+
+> _Powered by Second Mind OS_

@@ -109,3 +109,8 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 
 > _This is a Lab log entry — not a tutorial. It reflects one iteration through the OS architecture loop.  
 > Logs evolve. So do systems._
+
+
+---
+
+> _Powered by Second Mind OS_

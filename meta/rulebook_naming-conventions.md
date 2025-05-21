@@ -81,3 +81,7 @@ Standard page scaffolds:
 - No new folder added without namespace alignment
 - All logs pass through `/logs/YYYY-MM_title.md` format
 - Rulebook updates go through versioned `/meta/rulebook_*`
+
+---
+
+> _Powered by Second Mind OS_
