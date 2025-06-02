@@ -1,4 +1,4 @@
-# 🏛 Naming Protocol Emoji
+# 🏛 Naming Protocol Symbol
 
 **Purpose:**
 
