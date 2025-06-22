@@ -14,9 +14,9 @@ This document specifies the emoji symbols used within the Second Mind OS Lab to 
 | `core`       | ⚙️    | Cognitive engine — system architecture, blueprint canon, OS primitives.        |
 | `experiment` | 🧪    | Trial layer — forks, tests, scaffolds, runtime hypotheses.                     |
 | `logs`       | 📃    | Signal trace — atomic system pings, observations, causal markers.              |
-| `rhythm`     | 🩺    | System pulse — weekly state, flow blockers, continuity trace.                  |
-| `pattern`    | 🧬    | Execution DNA — extracted schemas, mental scaffolds, feedback invariants.      |
-| `library`    | 🗂️    | Reference base — mapped research, citations, paper distillations.              |
+| `rhythm`     | 📰    | System pulse — weekly state, flow blockers, continuity trace.                  |
+| `pattern`    | 📜    | Execution DNA — extracted schemas, mental scaffolds, feedback invariants.      |
+| `library`    | 📦    | Reference base — mapped research, citations, paper distillations.              |
 | `lab`        | 🧱    | Operational backbone of the Lab itself                                         |
 | `execution`  | ⚒️    | System runtime, product pipeline                                               |
 | `personal`   | ⚓    | Person ops, private loops, unmerged drafts                                     |

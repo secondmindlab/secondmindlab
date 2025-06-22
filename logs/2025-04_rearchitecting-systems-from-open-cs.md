@@ -102,7 +102,7 @@ This log traces how primitives from MIT OS and Harvard CS50 were translated into
 ## References
 
 - **📃 Notion Log (private, request-only)**  
-  → Title: ["📃 Second Mind OS Log – 2025-04 – Open CS Integration"](https://secondmindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
+  → Title: ["📃 Second Mind OS Log – 2025-04 – Open CS Integration"](https://smindlab.notion.site/2025-04_rearchitecting-systems-from-open-cs-md-1d4af5f3c08f80d7b200c0f6116a5813)  
   → Includes full internal debug session, infra diagrams, and cross-layer mapping graphs.
 
 (Note: This artifact emerged from Lab System Loops)

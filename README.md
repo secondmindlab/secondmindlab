@@ -3,9 +3,9 @@
 > _R&D Lab for Cognitive Infra and Mental Architecture_
 
 A public R&D interface for builders designing internal developer systems, mental scaffolds, and backend execution models.
-This repo is the **modular, forkable layer** of the Second Mind OS Lab — the deep system design lab powering [**@Mindframe Forge**](https://github.com/mindfforge).
+This repo is the **modular, forkable layer** of the Second Mind OS Lab — the deep system design lab powering [**@Mindframe Forge**](https://github.com/mindfrm).
 
-## 🧪 Lab Signature
+## Lab Signature
 
 - **Name**: Second Mind OS — Systems Lab
 - **Focus**: Recursive Systems Thinking, Developer Cognitive Infra, Execution Engine Design
@@ -28,7 +28,7 @@ This lab powers **Mindframe Forge**, but runs independently as a system-design-f
 
 This is the **public interface** of the Second Mind OS Lab.  
 → Internal traces, deep architecture thinking live in Notion:  
-→ [secondmindlab.notion.site](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49)
+→ [smindlab.notion.site](https://smindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49)
 
 This repo is the **public-facing interface** — optimized for reuse, scaling, and open knowledge sharing.
 
@@ -39,11 +39,11 @@ This repo is the **public-facing interface** — optimized for reuse, scaling, a
 ⚙️ [**`/core`**](./core/README.md) → System blueprints, patterns, and execution mental models.  
 🧪 [**`/experiment`**](./experiment/README.md) → Prototypes, system scaffolds, and loopable technical trials.  
 📃 [**`/logs`**](./logs/README.md) → Atomic loop entries — system iterations, forks, and reflections.  
-🗂️ [**`/library`**](./library/README.md) → Distilled reference materials — papers, mappings, and citations.  
-🩺 [**`/rhythm`**](./rhythm/README.md) → Weekly execution trace — blockers, flows, and loop pulses.  
+📦 [**`/library`**](./library/README.md) → Distilled reference materials — papers, mappings, and citations.  
+📰 [**`/rhythm`**](./rhythm/README.md) → Weekly execution trace — blockers, flows, and loop pulses.  
 🏛 [**`/meta`**](./meta/README.md) → Lab protocols, decisions, version deltas, and architecture evolution.  
-🧬 [**`/pattern`**](./pattern/README.md) → Execution DNA — extracted schemas, mental scaffolds, feedback invariants.  
-🌐 [**`/site`**](./site/README.md) → Public Second Mind OS Lab website.
+📜 [**`/pattern`**](./pattern/README.md) → Execution DNA — extracted schemas, mental scaffolds, feedback invariants.  
+[**`/site`**](./site/README.md) → Public Second Mind OS Lab website.
 
 ### Recursive Execution Engine
 
@@ -112,7 +112,7 @@ Open a discussion or reach out:
 ## Related Systems
 
 - [**⚒️ Mindframe Forge**](https://github.com/mindfforge) — Product layer powered by this Lab
-- [**🧱 Notion Lab Journal**](https://secondmindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
+- [**🧱 Notion Lab Journal**](https://smindlab.notion.site/Second-Mind-OS-Lab-1c5af5f3c08f8095a236d220035b5b49) — Deep system logs & architecture thinking
 
 Internal developer systems, backend architecture, clarity-by-design.
 

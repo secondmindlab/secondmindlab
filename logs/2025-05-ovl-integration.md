@@ -112,7 +112,7 @@ flowchart TD
 ### References
 
 - **📃 Notion Log (private, request-only)**  
-  → Title: ["📃 Second Mind OS – 2025-05 – Open Verification Layer Integration"](https://secondmindlab.notion.site/Logs-2025-05-OvlIntegration-1ecaf5f3c08f8064a75bf489990f69cf)
+  → Title: ["📃 Second Mind OS – 2025-05 – Open Verification Layer Integration"](https://smindlab.notion.site/Logs-2025-05-OvlIntegration-1ecaf5f3c08f8064a75bf489990f69cf)
   → Contains: agent scaffolds, failed loop traces, cognitive UX metrics
 
 > _This log captures 1 full loop of system evolution inside Second Mind OS Lab.
